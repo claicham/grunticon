@@ -24,7 +24,7 @@
     "test": "grunt travis --verbose"
   },
   "dependencies": {
-    "cc-grunticon-lib": "^1.2.4"
+    "cc-grunticon-lib": "^1.2.5"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
