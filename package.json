@@ -1,5 +1,5 @@
 {
-  "name": "grunt-grunticon",
+  "name": "cc-grunt-grunticon",
   "description": "A mystical CSS icon solution",
   "version": "2.3.2",
   "homepage": "https://github.com/claicham/grunticon",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/filamentgroup/grunticon"
+    "url": "https://github.com/claicham/cc-grunticon"
   },
   "bugs": {
-    "url": "https://github.com/filamentgroup/grunticon/issues"
+    "url": "https://github.com/claicham/cc-grunticon/issues"
   },
   "license": "MIT",
   "main": "Gruntfile.js",
