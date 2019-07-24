@@ -7,7 +7,7 @@
  */
 
 /*global require:true*/
-var Grunticon = require( 'grunticon-lib' );
+var Grunticon = require( 'cc-grunticon-lib' );
 
 module.exports = function( grunt , undefined ) {
 	"use strict";
